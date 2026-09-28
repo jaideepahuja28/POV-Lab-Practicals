@@ -6,7 +6,7 @@
 * Course Title: Virtualization Lab
 * Course Code: BCA-379A
 * Total Practicals: 12
-* Practicals Covered: 5
+* Practicals Covered: 7
 
 # List Of Practicals:
 1. Enable BIOS Virtualization (Intel VT-x / AMD-V) and check virtualization support on host.
