@@ -1,12 +1,12 @@
-# POV-Lab-Practicals
-## Authored by: Jaideep
+# POV-Lab-Practicals **(COMPLETED)**
+## Authored & Performed by: Jaideep
 
 ### This repository hosts the documents of all the practicals of Virtualization Lab, covered as per the syllabus.
 
 * Course Title: Virtualization Lab
 * Course Code: BCA-379A
-* Total Practicals: 11
-* Practicals Covered: 10
+* Total Practicals: 12
+* Practicals Covered: 12 
 
 # List Of Practicals:
 1. Enable BIOS Virtualization (Intel VT-x / AMD-V) and check virtualization support on host.
@@ -19,10 +19,10 @@
 8. Deploy and Access Remote Applications using RemoteApp & RD Web Access.
 9. Configure Remote Desktop Client for Virtual Desktop Access.
 10. Introduction to VMware vSphere, ESXi & vCenter — Create VM on ESXi Server.<br>
-11. ~~Configure Hyper-V and Create Virtual Machine.~~ **NOT TO BE COVERED**
+11. Configure Hyper-V and Create Virtual Machine.
 12. Install & Use VM Performance Monitoring Tools (Nagios / Zabbix).
 
 # Note:
-The names and links to download for all the used software, or any other tools/utilities have been linked in the document of the respective practical.
-
+* The names and links to download for all the used software, or any other tools/utilities have been linked in the document of the respective practical.
+* Practical 12 has been exclusively uploaded in .pdf to get around Github's per file upload size limit (<25 MB).
 ### Please star this repository and show some support to the admin.
